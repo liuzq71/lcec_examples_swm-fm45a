@@ -2,7 +2,7 @@
 modified the examples/swm-fm45a/swm-fm45a-io.hal,and copy these files to<br>
 linuxcnc-dev/configs/sim/axis,you can run it to drive the ASD_A2-XXXX-E servo<br>
 +++++++++++++++++++++++++++++++++++++++++++++++++++<br>
-modified:
+modified:<br><br>
 lcec.0.3A1.srv-pos-scale ===> lcec.0.3A1.pos-scale <br>
 lcec.0.3A2.srv-pos-scale ===> lcec.0.3A2.pos-scale <br>
 lcec.0.4A3.srv-pos-scale ===> lcec.0.4A3.pos-scale <br>
